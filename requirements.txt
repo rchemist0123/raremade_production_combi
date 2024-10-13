@@ -1,6 +1,5 @@
 streamlit==1.39.0
 polars==1.9.0
-pandas
-io
-pyxlsb
-xlsxwriter
+pandas == 2.2.3
+pyxlsb == 1.0.10
+XlsxWriter == 3.2.0
